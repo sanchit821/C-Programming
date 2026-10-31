@@ -1,0 +1,1 @@
+// Build a simple electronic-device diagnostic program. Check 5 devices, and for each device check 3 conditions: voltage, temperature and current. Display PASS only if all three conditions are within safe limits.

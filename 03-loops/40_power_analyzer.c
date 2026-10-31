@@ -1,0 +1,1 @@
+// Create a small power-consumption analyzer. For n devices, enter the power consumption recorded for 3 different time periods. Find the total consumption of each device and identify the device with the highest total consumption.

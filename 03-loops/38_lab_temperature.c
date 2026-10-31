@@ -1,0 +1,1 @@
+// A lab records temperature for 3 days, with 4 readings per day. Display the average temperature for each day and the overall average.
